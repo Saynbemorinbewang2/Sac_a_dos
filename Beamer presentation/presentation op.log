@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2023.12.15)  29 FEB 2024 01:13
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2023.12.15)  29 FEB 2024 08:07
 entering extended mode
 **presentation*op.tex
 
@@ -995,13 +995,9 @@ File: listings.cfg 2007/02/22 1.4 listings configuration
 Package: listings 2007/02/22 1.4 (Carsten Heinz)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\themes\theme\beamerth
-emeBerlin.sty"
-Package: beamerthemeBerlin 2010/06/17  (rcs-revision d02a7cf4d8ae)
+emeMadrid.sty"
+Package: beamerthemeMadrid 2010/06/17  (rcs-revision d02a7cf4d8ae)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\themes\outer\beamerou
-terthememiniframes.sty"
-Package: beamerouterthememiniframes 2010/06/17  (rcs-revision d02a7cf4d8ae)
-)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\themes\color\beamerco
 lorthemewhale.sty"
 Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
@@ -1011,11 +1007,22 @@ lorthemeorchid.sty"
 Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\themes\inner\beamerin
-nerthemerectangles.sty"
-Package: beamerinnerthemerectangles 2010/06/17  (rcs-revision d02a7cf4d8ae)
+nerthemerounded.sty"
+Package: beamerinnerthemerounded 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\themes\outer\beamerou
+terthemeinfolines.sty"
+Package: beamerouterthemeinfolines 2010/07/10  (rcs-revision 445340293dde)
 ))
 ("E:\Documents\M2\Technique d'optimisation\Projet\Beamer presentation\presentat
-ion op.aux")
+ion op.aux"
+
+LaTeX Warning: Label `fig:mon_image' multiply defined.
+
+
+LaTeX Warning: Label `fig:mon_image' multiply defined.
+
+)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
@@ -1042,14 +1049,14 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* h-part:(L,W,R)=(10.88002pt, 342.43532pt, 10.88002pt)
 * v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
 * \paperwidth=364.19536pt
 * \paperheight=273.14662pt
-* \textwidth=307.28987pt
+* \textwidth=342.43532pt
 * \textheight=244.6939pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
+* \oddsidemargin=-61.38997pt
+* \evensidemargin=-61.38997pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
@@ -1172,10 +1179,6 @@ Dictionary: translator-theorem-dictionary, Language: English
 
 ("E:\Documents\M2\Technique d'optimisation\Projet\Beamer presentation\presentat
 ion op.nav")
-Overfull \hbox (539.13472pt too wide) detected at line 8
-  [] [] [] [] [] [] [] [] [] [] [] [] []  
- []
-
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 9.
@@ -1188,7 +1191,7 @@ Package hyperref Warning: Option `pdfsubject' has already been used,
 Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 30.
 
-<image.png, id=71, 291.0875pt x 291.0875pt>
+<image.png, id=31, 291.0875pt x 291.0875pt>
 File: image.png Graphic file (type png)
  <use image.png>
 Package pdftex.def Info: image.png used on input line 30.
@@ -1198,125 +1201,107 @@ Package pdftex.def Info: image.png used on input line 30.
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <E:/Documents/M2/Technique
  d'optimisation/Projet/Beamer presentation/image.png>]
 ("E:\Documents\M2\Technique d'optimisation\Projet\Beamer presentation\presentat
-ion op.toc")
-Overfull \hbox (539.13472pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [] [] [] [] [] []  
- []
+ion op.toc") [2
 
-[2
+] [3
 
-]
-Overfull \hbox (539.13472pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [] [] [] [] [] []  
- []
+] [4
 
-[3
+] [5
 
-]
-Overfull \hbox (539.13472pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [] [] [] [] [] []  
- []
+] <algo.png, id=189, 435.87843pt x 177.66376pt>
+File: algo.png Graphic file (type png)
 
-[4
+<use algo.png>
+Package pdftex.def Info: algo.png used on input line 86.
+(pdftex.def)             Requested size: 308.18968pt x 125.61623pt.
+ [6
 
-]
-Overfull \hbox (539.13472pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [] [] [] [] [] []  
- []
+ <E:/Documents/M2/Technique d'optimisation/Projet/Beamer presentation/algo.png>
+] [7
 
-[5
+] <solution1.png, id=243, 328.97906pt x 338.01282pt>
+File: solution1.png Graphic file (type png)
 
-]
-Overfull \hbox (539.13472pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [] [] [] [] [] []  
- []
+<use solution1.png>
+Package pdftex.def Info: solution1.png used on input line 102.
+(pdftex.def)             Requested size: 171.21765pt x 175.9224pt.
+pdfTeX warning (ext4): destination with the same identifier (name{fig:mon_image
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.102 \end{frame}
+                  [8
 
-[6
+ <E:/Documents/M2/Technique d'optimisation/Projet/Beamer presentation/solution1
+.png>] <stat.png, id=271, 581.17125pt x 241.65282pt>
+File: stat.png Graphic file (type png)
 
-]
-Overfull \hbox (539.13472pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [] [] [] [] [] []  
- []
+<use stat.png>
+Package pdftex.def Info: stat.png used on input line 110.
+(pdftex.def)             Requested size: 308.18968pt x 128.14912pt.
+pdfTeX warning (ext4): destination with the same identifier (name{fig:mon_image
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.110 \end{frame}
+                  [9
 
-[7
+ <E:/Documents/M2/Technique d'optimisation/Projet/Beamer presentation/stat.png>
+] [10
 
-]
-Overfull \hbox (539.13472pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [] [] [] [] [] []  
- []
-
-[8
-
-]
-("E:\Documents\M2\Technique d'optimisation\Projet\Beamer presentation\presentat
-ion op.vrb" ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
-"
-File: lstlang1.sty 2004/09/05 1.3 listings language file
-)
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 2.
-)
-Overfull \hbox (539.13472pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [] [] [] [] [] []  
- []
-
-[9
-
-] <merci2.png, id=422, 244.915pt x 207.77625pt>
+] <merci2.png, id=323, 244.915pt x 207.77625pt>
 File: merci2.png Graphic file (type png)
- <use merci2.png>
-Package pdftex.def Info: merci2.png used on input line 117.
-(pdftex.def)             Requested size: 147.49782pt x 125.13275pt.
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 117.
 
+<use merci2.png>
+Package pdftex.def Info: merci2.png used on input line 132.
+(pdftex.def)             Requested size: 164.36748pt x 139.44713pt.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 132.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 117
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 132
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 117
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 132
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 117.
+(Font)              <10.95> on input line 132.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 117.
+(Font)              <8> on input line 132.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 117.
-LaTeX Font Info:    Try loading font information for U+msa on input line 117.
+(Font)              <6> on input line 132.
+LaTeX Font Info:    Try loading font information for U+msa on input line 132.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 117.
+LaTeX Font Info:    Try loading font information for U+msb on input line 132.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 132.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 117.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 132.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 117.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 132.
 
-<question.png, id=423, 225.84375pt x 225.84375pt>
+<question.png, id=324, 225.84375pt x 225.84375pt>
 File: question.png Graphic file (type png)
  <use question.png>
-Package pdftex.def Info: question.png used on input line 117.
-(pdftex.def)             Requested size: 147.49782pt x 147.50658pt.
-
-Overfull \hbox (539.13472pt too wide) has occurred while \output is active
-  [] [] [] [] [] [] [] [] [] [] [] [] []  
- []
-
-[10
+Package pdftex.def Info: question.png used on input line 132.
+(pdftex.def)             Requested size: 164.36748pt x 164.37521pt.
+ [11
 
  <E:/Documents/M2/Technique d'optimisation/Projet/Beamer presentation/merci2.pn
 g> <E:/Documents/M2/Technique d'optimisation/Projet/Beamer presentation/questio
@@ -1324,34 +1309,37 @@ n.png>]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 118.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 118.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
 
 ("E:\Documents\M2\Technique d'optimisation\Projet\Beamer presentation\presentat
 ion op.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 118.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 118.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 133.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
 Package rerunfilecheck Info: File `presentation*op.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 118.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
  ) 
 Here is how much of TeX's memory you used:
- 17625 strings out of 494049
- 320794 string characters out of 3146061
- 415041 words of memory out of 3000000
- 20453 multiletter control sequences out of 15000+200000
- 36881 words of font info for 42 fonts, out of 3000000 for 9000
+ 17325 strings out of 494049
+ 318282 string characters out of 3146061
+ 391251 words of memory out of 3000000
+ 20161 multiletter control sequences out of 15000+200000
+ 39665 words of font info for 43 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 49i,15n,54p,432b,1192s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,16n,60p,432b,617s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files (x86)/
 MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files (x86)/MiKTeX 2.9/
 fonts/type1/public/lm/lmss8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
-public/lm/lmss9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lm
-sso10.pfb>
-Output written on "presentation op.pdf" (10 pages, 249162 bytes).
+public/lm/lmss9.pfb>
+Output written on "presentation op.pdf" (11 pages, 315964 bytes).
 PDF statistics:
- 489 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
- 144 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 374 PDF objects out of 1000 (max. 8388607)
+ 28 named destinations out of 1000 (max. 500000)
+ 139 words of extra memory for PDF output out of 10000 (max. 10000000)
 
